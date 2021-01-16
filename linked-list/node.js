@@ -1,4 +1,4 @@
-// ! Initializing Node
+// ! Initializing Node and exported to the linked list
 
 export class Node {
   constructor(element) {
